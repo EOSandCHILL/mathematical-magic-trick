@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        /*In this project, you will become a mathemagician and write a small program
+        /*In this project, I will become a mathemagician and write a small program
         that performs a mathematical magic trick! It will involve performing arithmetic
         operations on an integer that you choose.*/
 
@@ -38,7 +38,7 @@ public class Main {
 
         System.out.println(stepSix);
 
-        /*Now, go back to your code and change myNumber to any other integer. Run your program
+        /*Now, go back to the code and change myNumber to any other integer. Run the program
         again.*/
 
         // Is the output the same?
